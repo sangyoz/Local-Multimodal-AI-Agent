@@ -1,0 +1,14 @@
+torch>=2.0
+transformers==4.57.1
+accelerate>=0.26.0
+sentence-transformers>=2.6.0
+Pillow>=9.5.0
+numpy>=1.23.0
+chromadb>=0.4.24
+PyMuPDF>=1.23.0
+gradio>=4.25.0
+dashscope
+openai
+requests
+piexif
+python-dotenv>=1.0.0
